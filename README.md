@@ -1,2 +1,2 @@
-# linear-regression
-linear regression in matlab.
+# Linear-Regression
+Linear Regression in MATLAB.
